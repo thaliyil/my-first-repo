@@ -1,1 +1,1 @@
-#my first day on Githaub
+First day on Githaub
